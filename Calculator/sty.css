@@ -40,8 +40,17 @@ body {
     background-color: #BFDCE5;
 }
 
+.oprtn {
+    background-color: #4E6E81;
+    color: white;
+}
+
+.oprtn:hover {
+    background-color: #4D455D;
+}
+
 .item:nth-of-type(2):hover {
-    background-color: #CF0A0A;
+    background-color: #EB455F;
 }
 
 .item:nth-of-type(1) {
