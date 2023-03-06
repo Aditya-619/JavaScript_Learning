@@ -93,8 +93,5 @@ function display() {
   screen.innerText = buffer;
 }
 
-function output() {
-  screen.innerText = answer;
-}
 
 init();
